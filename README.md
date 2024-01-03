@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohammed Alaa</h1>
-<h3 align="center">An Information Technology student in FCAI Cairo university, Interested in Backend development, Problem solving..Passionate about creating efficient and scalable software solutions that provide a seamless user experience.</h3>
+<h3 align="center">
+A recent graduate from FCAI Cairo University with a degree in Information Technology, I am currently enrolled in the ITI 9-Month Scholarship program for Enterprise & Web Apps Development - Java track. My focus lies in backend development, where I am passionate about creating efficient and scalable software solutions. With a strong foundation in problem-solving techniques, I aim to contribute to the development of seamless and user-friendly applications.</h3>
 
 - 📫 How to reach me: **MohammedAlaaEldin@outlook.com**
 
