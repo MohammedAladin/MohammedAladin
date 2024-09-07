@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohammed Alaa</h1>
 <h3 align="center">
-Graduate from FCAI Cairo University, Currently enrolled in the ITI 9-Month Scholarship program for Enterprise & Web Apps Development - Java track, I am passionate about creating efficient and scalable software solutions. With a strong foundation in problem-solving techniques, I aim to contribute to the development of seamless and user-friendly applications.</h3>
+Currently, I work as a software developer at _VOIS (Vodafone Intelligent Solutions). I am a graduate of FCAI Cairo University and the ITI 9-Month Scholarship program for Enterprise & Web Apps Development - Java track. I am passionate about creating efficient and scalable software solutions. With a strong foundation in problem-solving techniques, I aim to contribute to the development of seamless and user-friendly applications.</h3>
 
 - 📫 How to reach me: **MohammedAlaaEldin@outlook.com**
 
